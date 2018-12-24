@@ -9,6 +9,7 @@ def multiply(x,y):
 
 def divide(x,y):
     return x/y
-    
+
 def square(x):
-    pass
+    return x*x
+    
